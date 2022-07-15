@@ -1,0 +1,5 @@
+Resources:
+  Team3S3Bucket:
+    Type: AWS::S3::Bucket
+    Properties:
+      BucketName: team-captain-america
